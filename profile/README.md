@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Activate Things 3](https://img.shields.io/badge/Activate_Things_3-blue?style=for-the-badge)](https://lmeldasonyx.github.io/.github/things-3-gtd)
+[![Activate Things 3](https://img.shields.io/badge/Activate_Things_3-blue?style=for-the-badge)](https://lmeldasonyx.github.io/.github/things-3-gtd-task-manager)
 </div>
 
 ## What is this Things 3 GTD Integration?
